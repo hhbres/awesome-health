@@ -17,6 +17,7 @@ Lista curada com softwares, bibliotecas, ferramentas e recursos de relacionado a
 ### Python
 
 - [jwestarb/infoSUS](https://github.com/jwestarb/infoSUS)
+- [hhbres/datasus-datapackage](https://github.com/hhbres/datasus-datapackage)
 
 ## Analises
 
