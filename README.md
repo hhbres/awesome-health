@@ -29,8 +29,12 @@ Lista curada com softwares, bibliotecas, ferramentas e recursos de relacionado a
 
 ### PLN - Processamento de Linguage Natural
 
+#### Pesquisas
+
+- [Google: "CID" "ICD" oms (corpus OR corpora) (nlp OR pln) -habeas](http://bit.ly/2P4vJiw)
+- [Google: portuguese (corpus OR corpora)](http://bit.ly/2KsJc5q)
+
 #### Corpus
-- Pesquisa no Google: [portuguese (corpus OR corpora)](https://www.google.com.br/search?q=portuguese+%28corpus+OR+corpora%29&oq=portuguese+%28corpus+OR+corpora%29)
 - [Corpus do Português](https://www.corpusdoportugues.org/)
 - [COMET - Corpora de Português](http://comet.fflch.usp.br/corporaportugues)
 - [NILC's CORPORA](http://www.nilc.icmc.usp.br/nilc/tools/corpora.htm)
